@@ -11,3 +11,4 @@ int main()
 	printf("\n valude of b=%d",b);
 return 0;
 }
+//
